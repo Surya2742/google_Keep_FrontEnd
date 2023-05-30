@@ -1,0 +1,22 @@
+.headertab {
+    margin-bottom: 4%;
+}
+
+.project {
+    display: flex;
+    justify-content: center;
+}
+
+.cardcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: space-around;
+}
+
+.emptydata {
+    margin-left: auto;
+    margin-right: auto;
+}
+hr {
+    flex: 0 0 100%;
+}

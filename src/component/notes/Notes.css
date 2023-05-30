@@ -1,0 +1,32 @@
+.cardtitle {
+    padding-left: 2%;
+    padding-top: 2%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.cardnote {
+    font-size: 16px;
+}
+
+.cardcontent {
+    display: flex;
+    padding-left: 5%;
+    margin-bottom: 2%;
+}
+
+.card {
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
+.pintop {
+    margin-left: auto;
+    padding-right: 2%;
+    padding-top: 2%;
+}
+
+.actionbutton {
+    display: flex;
+    align-self: flex-start;
+}
