@@ -1,6 +1,7 @@
 {
   "name": "googlekeep",
   "version": "0.1.0",
+  "homepage": "https://Surya2742.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
